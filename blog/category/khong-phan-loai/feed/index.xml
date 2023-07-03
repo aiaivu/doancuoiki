@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Chưa phân loại &#8211; DoAnCuoiKy</title>
-	<atom:link href="http://localhost/doancuoiki/blog/category/khong-phan-loai/feed/?simply_static_page=2594" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/doancuoiki/blog/category/khong-phan-loai/feed/?simply_static_page=3573" rel="self" type="application/rss+xml" />
 	<link>https://aiaivu.github.io/doancuoiki</link>
 	<description></description>
-	<lastBuildDate>Mon, 26 Jun 2023 09:04:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Jun 2023 09:42:37 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
-		<title>Top cửa hàng đồ  phụ kiện thú cưng giá rẻ uy tín ở HCM và Hà Nội</title>
+		<title>Top phụ kiện cho chó mèo được mua nhiều nhất</title>
 		<link>https://aiaivu.github.io/doancuoiki/blog/2023/06/26/top-cua-hang-va-phu-kien-thu-cung-gia-re-uy-tin-o-hcm-va-ha-noi/</link>
 					<comments>https://aiaivu.github.io/doancuoiki/blog/2023/06/26/top-cua-hang-va-phu-kien-thu-cung-gia-re-uy-tin-o-hcm-va-ha-noi/#respond</comments>
 		
@@ -34,26 +34,6 @@
 					
 					<wfw:commentRss>https://aiaivu.github.io/doancuoiki/blog/2023/06/26/top-cua-hang-va-phu-kien-thu-cung-gia-re-uy-tin-o-hcm-va-ha-noi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Chào tất cả mọi người!</title>
-		<link>https://aiaivu.github.io/doancuoiki/blog/2023/06/21/chao-moi-nguoi/</link>
-					<comments>https://aiaivu.github.io/doancuoiki/blog/2023/06/21/chao-moi-nguoi/#comments</comments>
-		
-		<dc:creator><![CDATA[nhanai]]></dc:creator>
-		<pubDate>Wed, 21 Jun 2023 17:55:18 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://aiaivu.github.io/doancuoiki/?p=1</guid>
-
-					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
-										<content:encoded><![CDATA[
-<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://aiaivu.github.io/doancuoiki/blog/2023/06/21/chao-moi-nguoi/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
