@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Mina &#8211; DoAnCuoiKy</title>
-	<atom:link href="http://localhost/doancuoiki/tu-khoa-san-pham/mina/feed/?simply_static_page=5301" rel="self" type="application/rss+xml" />
+	<title>Mina</title>
+	<atom:link href="http://localhost/doancuoiki/tu-khoa-san-pham/mina/feed/?simply_static_page=6708" rel="self" type="application/rss+xml" />
 	<link>https://aiaivu.github.io/doancuoiki</link>
 	<description></description>
-	<lastBuildDate>Mon, 26 Jun 2023 06:16:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Jul 2023 19:31:00 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,42 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>Quisque vandeli</title>
+		<link>https://aiaivu.github.io/doancuoiki/san-pham/quisque-vandeli/</link>
+					<comments>https://aiaivu.github.io/doancuoiki/san-pham/quisque-vandeli/#respond</comments>
+		
+		<dc:creator><![CDATA[nhanai]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2023 19:31:00 +0000</pubDate>
+				<guid isPermaLink="false">https://aiaivu.github.io/doancuoiki/?post_type=product#038;p=431</guid>
+
+					<description><![CDATA[Aliquam feugiat vulputate ligula, quis posuere tortor condimentum eget. Sed consequat ante sed congue pellentesque. Cras massa purus, venenatis in eros at, vestibulum finibus sapien. Nunc sodales]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nibh ligula, faucibus sit amet aliquet ac, molestie a massa. Fusce vitae feugiat enim, id fermentum magna. Aenean convallis egestas massa ac rhoncus. Integer iaculis et erat id auctor. Vivamus porta, mi a porttitor imperdiet, purus metus tempus elit, ut dictum mauris dui a tellus. Integer at ipsum sit amet sem vulputate ultricies in vel orci. Aliquam feugiat vulputate ligula, quis posuere tortor condimentum eget. Sed consequat ante sed congue pellentesque. Cras massa purus, venenatis in eros at, vestibulum finibus sapien. Nunc sodales facilisis tortor, sit amet scelerisque metus pharetra at. Proin efficitur consequat ipsum quis scelerisque. Quisque ac venenatis purus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://aiaivu.github.io/doancuoiki/san-pham/quisque-vandeli/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hesale soles</title>
+		<link>https://aiaivu.github.io/doancuoiki/san-pham/hesale-soles/</link>
+					<comments>https://aiaivu.github.io/doancuoiki/san-pham/hesale-soles/#respond</comments>
+		
+		<dc:creator><![CDATA[nhanai]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2023 19:23:54 +0000</pubDate>
+				<guid isPermaLink="false">https://aiaivu.github.io/doancuoiki/?post_type=product#038;p=430</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nibh ligula, faucibus sit amet aliquet ac, molestie a massa. Fusce vitae feugiat enim, id fermentum magna. Aenean convallis egestas]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nibh ligula, faucibus sit amet aliquet ac, molestie a massa. Fusce vitae feugiat enim, id fermentum magna. Aenean convallis egestas massa ac rhoncus. Integer iaculis et erat id auctor. Vivamus porta, mi a porttitor imperdiet, purus metus tempus elit, ut dictum mauris dui a tellus. Integer at ipsum sit amet sem vulputate ultricies in vel orci. Aliquam feugiat vulputate ligula, quis posuere tortor condimentum eget. Sed consequat ante sed congue pellentesque. Cras massa purus, venenatis in eros at, vestibulum finibus sapien. Nunc sodales facilisis tortor, sit amet scelerisque metus pharetra at. Proin efficitur consequat ipsum quis scelerisque. Quisque ac venenatis purus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://aiaivu.github.io/doancuoiki/san-pham/hesale-soles/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Nagula Pibaste</title>
 		<link>https://aiaivu.github.io/doancuoiki/san-pham/nagula-pibaste/</link>
 					<comments>https://aiaivu.github.io/doancuoiki/san-pham/nagula-pibaste/#respond</comments>

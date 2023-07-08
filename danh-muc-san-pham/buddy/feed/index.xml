@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>BUDDY &#8211; DoAnCuoiKy</title>
-	<atom:link href="http://localhost/doancuoiki/danh-muc-san-pham/buddy/feed/?simply_static_page=4800" rel="self" type="application/rss+xml" />
+	<title>BUDDY</title>
+	<atom:link href="http://localhost/doancuoiki/danh-muc-san-pham/buddy/feed/?simply_static_page=6672" rel="self" type="application/rss+xml" />
 	<link>https://aiaivu.github.io/doancuoiki</link>
 	<description></description>
 	<lastBuildDate>Mon, 26 Jun 2023 05:48:01 +0000</lastBuildDate>
