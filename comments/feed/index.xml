@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Bình luận cho 	</title>
-	<atom:link href="http://localhost/doancuoiki/comments/feed/?simply_static_page=9421" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/doancuoiki/comments/feed/?simply_static_page=10935" rel="self" type="application/rss+xml" />
 	<link>https://aiaivu.github.io/doancuoiki</link>
 	<description></description>
-	<lastBuildDate>Sun, 09 Jul 2023 05:04:31 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Jul 2023 06:13:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

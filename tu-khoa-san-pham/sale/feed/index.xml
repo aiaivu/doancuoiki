@@ -9,7 +9,7 @@
 
 <channel>
 	<title>sale</title>
-	<atom:link href="http://localhost/doancuoiki/tu-khoa-san-pham/sale/feed/?simply_static_page=10243" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/doancuoiki/tu-khoa-san-pham/sale/feed/?simply_static_page=11724" rel="self" type="application/rss+xml" />
 	<link>https://aiaivu.github.io/doancuoiki</link>
 	<description></description>
 	<lastBuildDate>Wed, 05 Jul 2023 19:34:30 +0000</lastBuildDate>
