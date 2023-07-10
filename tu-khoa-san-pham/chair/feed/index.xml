@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Chair</title>
-	<atom:link href="http://localhost/doancuoiki/tu-khoa-san-pham/chair/feed/?simply_static_page=18483" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/doancuoiki/tu-khoa-san-pham/chair/feed/?simply_static_page=20044" rel="self" type="application/rss+xml" />
 	<link>https://aiaivu.github.io/doancuoiki</link>
 	<description></description>
-	<lastBuildDate>Mon, 26 Jun 2023 05:48:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Jul 2023 03:46:11 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>Integer</title>
+		<link>https://aiaivu.github.io/doancuoiki/san-pham/integer-2/</link>
+					<comments>https://aiaivu.github.io/doancuoiki/san-pham/integer-2/#respond</comments>
+		
+		<dc:creator><![CDATA[nhanai]]></dc:creator>
+		<pubDate>Mon, 10 Jul 2023 03:44:48 +0000</pubDate>
+				<guid isPermaLink="false">https://aiaivu.github.io/doancuoiki/?post_type=product#038;p=807</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, feugiat delicata liberavisse id cum, no quo maiorum intellegebat, liber regione eu sit. Mea cu case ludus integre, vide viderer eleifend ex mea. His at soluta regione]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nibh ligula, faucibus sit amet aliquet ac, molestie a massa. Fusce vitae feugiat enim, id fermentum magna. Aenean convallis egestas massa ac rhoncus. Integer iaculis et erat id auctor. Vivamus porta, mi a porttitor imperdiet, purus metus tempus elit, ut dictum mauris dui a tellus. Integer at ipsum sit amet sem vulputate ultricies in vel orci. Aliquam feugiat vulputate ligula, quis posuere tortor condimentum eget. Sed consequat ante sed congue pellentesque. Cras massa purus, venenatis in eros at, vestibulum finibus sapien. Nunc sodales facilisis tortor, sit amet scelerisque metus pharetra at. Proin efficitur consequat ipsum quis scelerisque. Quisque ac venenatis purus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://aiaivu.github.io/doancuoiki/san-pham/integer-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Framed Top</title>
 		<link>https://aiaivu.github.io/doancuoiki/san-pham/framed-top-2/</link>
 					<comments>https://aiaivu.github.io/doancuoiki/san-pham/framed-top-2/#respond</comments>
